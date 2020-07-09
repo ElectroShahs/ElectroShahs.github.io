@@ -2,5 +2,5 @@
 ---
 Any other public pages will be listed here
 <ul>
-  <li>electroshahs.github.io/hwoogy</li>
+  <li><a href="https://electroshahs.github.io/">Hwoogy</a></li>
 </ul>
